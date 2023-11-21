@@ -28,3 +28,7 @@ This analysis provides actionable insights for aspiring Airbnb hosts, aiding in 
 ## Tableau Visualization
 
 You can view the Tableau visualization [here] (https://public.tableau.com/app/profile/zakaria.el.asli/viz/AirbnbFullProject_17004509719530/Tableaudebord1?publish=yes). 
+
+
+![Tableau de bord 1](https://github.com/zakelasli/Airbnb-Seattle-Analysis/assets/149749616/a150deab-8323-4578-bfe9-2ab40bf04d64)
+
